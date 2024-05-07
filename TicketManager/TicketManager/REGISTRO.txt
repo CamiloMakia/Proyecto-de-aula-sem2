@@ -1,3 +1,0 @@
-001,Cartagena,Barranquilla,25/04/23,4:00 PM,AUQ-007,26000,10518612,215432,Alfonso Duran
-001,Cartagena,Barranquilla,25/04/23,4:00 PM,AUQ-007,26000,1051814881,673159,Juan Barrios
-001,Cartagena,Barranquilla,25/04/23,4:00 PM,AUQ-007,26000,106718222,535949,Camilo Makia
